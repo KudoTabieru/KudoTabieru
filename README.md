@@ -1,4 +1,4 @@
-## Hi there 👋
+## Junior Software Engineer 👋
 
 <!--
 **KudoTabieru/KudoTabieru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
